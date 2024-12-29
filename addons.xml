@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.program.simplewizard" name="Simple Wizard" version="3.0.6" provider-name="Slam, Sarge, Funsterbe, BYB">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -31,5 +30,26 @@
 				<screenshot></screenshot>
 		</assets>
 	</extension>
+</addon>
+<addon id="repository.simplewizard" name="Simple Wizard Repository" provider-name="Slam" version="1.0.0">
+  <extension point="xbmc.addon.repository" name="Simple Wizard Repository">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/Slamious/swzips/refs/heads/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Slamious/swzips/refs/heads/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Slamious/swzips/refs/heads/main/zips/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">Simple Wizard</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets> 
+  </extension>
 </addon>
 </addons>
