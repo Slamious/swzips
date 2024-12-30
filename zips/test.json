@@ -2,7 +2,7 @@
 	"builds": [
 		{
 			"name": "Test",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"url": "https://raw.githubusercontent.com/Slamious/swzips/refs/heads/main/zips/test.zip",
 			"icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4V4XRiGR_vHN5RkOE4lny4EQ32_aXfGwImB4s6FUcA&s",
 			"fanart": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4V4XRiGR_vHN5RkOE4lny4EQ32_aXfGwImB4s6FUcA&s",
