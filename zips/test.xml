@@ -1,0 +1,12 @@
+<builds>
+
+  <build>
+	<name>test</name>
+	<version>1.0.0</version>
+	<url>https://raw.githubusercontent.com/Slamious/swzips/refs/heads/main/zips/test.zip</url>
+	<icon>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4V4XRiGR_vHN5RkOE4lny4EQ32_aXfGwImB4s6FUcA&s</icon>
+	<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4V4XRiGR_vHN5RkOE4lny4EQ32_aXfGwImB4s6FUcA&s</fanart>
+	<description>For testing purposes.</description>
+  </build>
+  
+</builds>
