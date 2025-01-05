@@ -28,4 +28,4 @@ fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4V4XRiGR_vHN5RkO
 preview="https://"
 adult="no"
 info="url.to.info"
-description="A short description of the build."
+description=""
