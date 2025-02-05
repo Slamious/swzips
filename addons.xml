@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.simplewizard" name="Simple Wizard" version="3.0.7" provider-name="Slam, Sarge, Funsterbe, BYB">
+<addon id="plugin.program.simplewizard" name="Simple Wizard" version="3.0.8" provider-name="Slam, Sarge, Funsterbe, BYB">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
